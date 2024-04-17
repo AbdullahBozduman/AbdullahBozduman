@@ -1,3 +1,5 @@
+![image](https://github.com/AbdullahBozduman/AbdullahBozduman/assets/148762496/63246892-c243-41b6-9a67-7dd55a82859d)
+
 <h1 align="center">Hi 👋, I'm AbdullahBozduman</h1>
 <h3 align="center">AWS Solutions Architect & DevOps Engineer</h3>
 
